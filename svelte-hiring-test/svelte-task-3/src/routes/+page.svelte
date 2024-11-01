@@ -4,7 +4,8 @@
   const items = [
     { id: 1, title: "Item 1", description: "First item description" },
     { id: 2, title: "Item 2", description: "Second item description" },
-    { id: 3, title: "Item 3", description: "Third item description" }
+    { id: 3, title: "Item 3", description: "Third item description" },
+    { id: 4, title: "Item 4", description: "Third item description" }
   ];
 </script>
 

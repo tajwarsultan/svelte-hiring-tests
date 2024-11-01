@@ -1,11 +1,12 @@
-<script>
+<script lang="ts">
   import { goto } from '$app/navigation';
   
   export let item;
   
-  function navigateToDetail(id) {
+  function navigateToDetail(id:string) {
     // TODO: Implement navigation
-    // goto(`/items/${id}`);
+    goto(`/items/${id}`);
+
   }
 </script>
 
